@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\PCInfo_backend.csproj": {}
+    "C:\\ASIGNATURAS\\CICLO 6\\pcinfo\\backend\\PCInfo_backend\\PCInfo_backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\PCInfo_backend.csproj": {
+    "C:\\ASIGNATURAS\\CICLO 6\\pcinfo\\backend\\PCInfo_backend\\PCInfo_backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\PCInfo_backend.csproj",
+        "projectUniqueName": "C:\\ASIGNATURAS\\CICLO 6\\pcinfo\\backend\\PCInfo_backend\\PCInfo_backend.csproj",
         "projectName": "PCInfo_backend",
-        "projectPath": "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\PCInfo_backend.csproj",
-        "packagesPath": "C:\\Users\\Luis Maco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\obj\\",
+        "projectPath": "C:\\ASIGNATURAS\\CICLO 6\\pcinfo\\backend\\PCInfo_backend\\PCInfo_backend.csproj",
+        "packagesPath": "C:\\Users\\ANGIE\\.nuget\\packages\\",
+        "outputPath": "C:\\ASIGNATURAS\\CICLO 6\\pcinfo\\backend\\PCInfo_backend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Luis Maco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ANGIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
