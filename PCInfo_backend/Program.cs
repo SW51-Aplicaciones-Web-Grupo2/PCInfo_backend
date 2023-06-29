@@ -42,12 +42,21 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 
+// Shared Injection Configuration
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+// Security Injection Configuration
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 
 // AutoMapper Configuration
 
 builder.Services.AddAutoMapper(
     typeof(ModelToResourceProfile),
-    typeof(ResourceToModelProfile));
+    typeof(ResourceToModelProfile),
+    typeof(PCInfo_backend.PCInfo.Security.Mapping.ModelToResourceProfile),
+    typeof(PCInfo_backend.PCInfo.Security.Mapping.ModelToResourceProfile));
 
 // CORS Configuration
 
