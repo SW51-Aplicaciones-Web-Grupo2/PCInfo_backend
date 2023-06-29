@@ -25,7 +25,6 @@
     <ItemGroup>
       <Folder Include="PCInfo\Security\Authorization\" />
       <Folder Include="PCInfo\Security\Controllers\" />
-      <Folder Include="PCInfo\Security\Exceptions\" />
     </ItemGroup>
 
 </Project>
