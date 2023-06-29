@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zFyoLyjn4HclllgZhu+8x5LyYD+AWWXoB16lOLU7RAdyrvPJ4ShrsjfsmM8ZH1OiN3nP8VgSO0cYFhylsdtCag==",
+  "dgSpecHash": "RmJmuFONodZizMlpnGLZokD2DiI8zqQkm9txrfCZuA2QIj5VpM/SHv6vQi8mfXiMfmfq1n5llJC/auxm/QGEVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\PCInfo_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Maco\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Luis Maco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Luis Maco\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Luis Maco\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Luis Maco\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
     "C:\\Users\\Luis Maco\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",
