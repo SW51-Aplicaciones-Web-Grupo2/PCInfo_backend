@@ -21,4 +21,11 @@
         <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.31.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="PCInfo\Security\Authorization\" />
+      <Folder Include="PCInfo\Security\Controllers\" />
+      <Folder Include="PCInfo\Security\Exceptions\" />
+      <Folder Include="PCInfo\Security\Services\" />
+    </ItemGroup>
+
 </Project>

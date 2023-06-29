@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6pxgZl2aqY8sv+kPnPn+W3xdgUxOkRHCxuqekEplln1iaF9+xnwFNkuB3kipwm4UoRH/GCnLVHbnAD2kfrWRw==",
+  "dgSpecHash": "zFyoLyjn4HclllgZhu+8x5LyYD+AWWXoB16lOLU7RAdyrvPJ4ShrsjfsmM8ZH1OiN3nP8VgSO0cYFhylsdtCag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Maco\\Downloads\\AppsBack-master\\PCInfo_backend\\PCInfo_backend.csproj",
+  "projectFilePath": "C:\\Users\\Luis Maco\\Desktop\\Programming\\Aplicaciones Web\\BACKEND\\GRUPAL\\PCInfo_backend\\PCInfo_backend\\PCInfo_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Maco\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Luis Maco\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
